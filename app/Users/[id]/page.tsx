@@ -1,4 +1,3 @@
-// app/users/[id]/page.tsx
 import { notFound } from 'next/navigation';
 import styles from './detailusers.module.css';
 import Link from 'next/link';
