@@ -8,7 +8,6 @@ interface Post {
 
 const fetchPosts = async (): Promise<Post[]> => {
   const response = await fetch('https://jsonplaceholder.typicode.com/posts', {
-    next: { revalidate: 10 },
   });
   const data: Post[] = await response.json();
   return data.slice(0, 10);
