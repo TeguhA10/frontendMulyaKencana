@@ -1,0 +1,64 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Wireless Headphones",
+            "description": "High-quality wireless headphones with noise cancellation.",
+            "price": 199.99,
+            "currency": "USD",
+            "stock": 50,
+            "category": "Electronics",
+            "image": "https://example.com/images/wireless-headphones.jpg",
+            "rating": 4.5,
+            "reviews": 112
+        },
+        {
+            "id": 2,
+            "name": "Smartphone",
+            "description": "Latest model smartphone with 128GB storage and 5G connectivity.",
+            "price": 699.99,
+            "currency": "USD",
+            "stock": 30,
+            "category": "Mobile Phones",
+            "image": "https://example.com/images/smartphone.jpg",
+            "rating": 4.7,
+            "reviews": 230
+        },
+        {
+            "id": 3,
+            "name": "Laptop",
+            "description": "Powerful laptop with 16GB RAM, 512GB SSD, and Intel i7 processor.",
+            "price": 1299.99,
+            "currency": "USD",
+            "stock": 15,
+            "category": "Computers",
+            "image": "https://example.com/images/laptop.jpg",
+            "rating": 4.8,
+            "reviews": 85
+        },
+        {
+            "id": 4,
+            "name": "Gaming Mouse",
+            "description": "Ergonomic gaming mouse with customizable RGB lighting.",
+            "price": 49.99,
+            "currency": "USD",
+            "stock": 100,
+            "category": "Accessories",
+            "image": "https://example.com/images/gaming-mouse.jpg",
+            "rating": 4.6,
+            "reviews": 67
+        },
+        {
+            "id": 5,
+            "name": "Smartwatch",
+            "description": "Fitness-focused smartwatch with heart rate monitor and GPS.",
+            "price": 149.99,
+            "currency": "USD",
+            "stock": 75,
+            "category": "Wearables",
+            "image": "https://example.com/images/smartwatch.jpg",
+            "rating": 4.4,
+            "reviews": 92
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+/* UserList.module.css */
+.heading {
+    @apply text-3xl font-bold mb-4 ml-4;
+}
+
+.listItem {
+    @apply text-lg text-blue-600 hover:text-blue-800 transition-colors duration-200 bg-white rounded shadow h-48 w-full p-5;
+    margin-top: 0.5rem;
+}
+
+.container {
+    @apply p-4;
+}
+
+.gridrows {
+    @apply grid lg:grid-cols-4 md:grid-cols-2 grid-cols-1 gap-4 place-items-center w-full;
+}
